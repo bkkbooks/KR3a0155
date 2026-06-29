@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3a0155/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 析言論析言論謁者僕射季明清達有高才多識前代格言虞世南北堂書鈔卷六十二引張顯高辛氏初生自言其名其君民終無迷謬太平御覽卷八十路史後紀卷九羅蘋注萬雀不及一鳳皇衆星不如一月明歐陽詢藝文類聚卷九十二太平御覽卷九百二十二古諺云堯舜至聖身如脯臘桀紂無道肥膚三尺太平御覽卷三百七十八引張顯析言又卷八十引作鄧析言古今訓土乙力為地陸德明爾雅釋文
+  hash: sha256:b76422cf7257a3d4dba0b194ea009d1438e685cbc08312fc5624426d2b759ba4
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3a0155_CHANT_001-1a.1-h}
+metadata:
+  title: 析言論一卷附古今訓
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3a0155.xml
+hash: sha256:197850572b2296a639c6583533691bbfff20986b3b1446a2e3ceab270d405fa6

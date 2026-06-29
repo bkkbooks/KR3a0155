@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR3a0155/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR3a0155/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 析言論一卷附古今訓
+  identifiers:
+    krp: KR3a0155
+  tags:
+    kr-categories: KR3a
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR3a0155.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR3a0155_001-CHANT.yaml, hash: 'sha256:d5aa867973b4d7203ed0964e9fd65b0db3d4cea42c6ab65a3de8f4011da7e3d0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3a0155_001-CHANT.markers.yaml, hash: 'sha256:f1edb3cea13d3b0ea1e24a040cde43be3d53a0236559cab522847de1effec5a5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3a0155_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 162
+  label: 析言論
+  type: section
+  level: 1
+hash: sha256:24931a58ed5e71902a7ecad541e93e889c9bb8c01b019d3c28292ec66c9eb8e9
