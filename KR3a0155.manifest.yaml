@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3a0155_001.yaml, hash: 'sha256:197850572b2296a639c6583533691bbfff20986b3b1446a2e3ceab270d405fa6'}
+  - {seq: 1, filename: KR3a0155_001.yaml, hash: 'sha256:d5aa867973b4d7203ed0964e9fd65b0db3d4cea42c6ab65a3de8f4011da7e3d0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3a0155_001.markers.yaml, hash: 'sha256:75d9561b892ea5fab52e14b8287836ba492814ee147a8faf4bf0fd782d510975'}
+  - {seq: 1, role: markers, filename: assets/KR3a0155_001.markers.yaml, hash: 'sha256:3b394b43a2ebd269e2823ca3b800c66d91d3a597ec32159216f163357cdaba5e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 析言論
   type: section
   level: 1
-hash: sha256:be77da49f06cf4d30577943120c69a4fc5cadf7ad13891714ad7ecd1a8831c1e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ca33304a63ed3e625ec6a18ac9344d2518c7f670c3d00cfd9730bb6b1b315ecf
