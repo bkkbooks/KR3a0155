@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3a0155/v1
 canonical_location: https://kanripo.org/bkk/KR3a0155/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 析言論一卷附古今訓
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3a0155_001.yaml, hash: 'sha256:d5aa867973b4d7203ed0964e9fd65b0db3d4cea42c6ab65a3de8f4011da7e3d0'}
+  - {seq: 1, filename: KR3a0155_001.yaml, hash: 'sha256:197850572b2296a639c6583533691bbfff20986b3b1446a2e3ceab270d405fa6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3a0155_001.markers.yaml, hash: 'sha256:3b394b43a2ebd269e2823ca3b800c66d91d3a597ec32159216f163357cdaba5e'}
+  - {seq: 1, role: markers, filename: assets/KR3a0155_001.markers.yaml, hash: 'sha256:07a947124408885c28485b4f80e6c791b523a629345fa9697f5bd0cf41859f04'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 析言論
   type: section
   level: 1
-hash: sha256:ca33304a63ed3e625ec6a18ac9344d2518c7f670c3d00cfd9730bb6b1b315ecf
+hash: sha256:445e0c71a0c34891aabc4bb95ea9236a8972289895c48816eb299e1593a4645b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
